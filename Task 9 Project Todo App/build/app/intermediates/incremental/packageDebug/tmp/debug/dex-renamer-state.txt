@@ -1,0 +1,4 @@
+#Thu Apr 13 23:34:34 PKT 2023
+base.0=C\:\\Users\\Hasan ENTERRISES\\AndroidStudioProjects\\bytewise_project\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
